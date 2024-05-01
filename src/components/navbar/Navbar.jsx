@@ -1,11 +1,12 @@
 import React from 'react'
 import './Navbar.css'
+import logo from '../../assets/logo.png'
 
 const Navbar = () => {
   return (
     <div className='navbar'>
-        <div className="name">
-            Jason Nguyen
+        <div className = "logo">
+          Jason
         </div>
         <ul className="nav-menu">
             <li>Home</li>
