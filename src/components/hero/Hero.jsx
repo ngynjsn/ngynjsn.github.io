@@ -7,9 +7,9 @@ const Hero = () => {
     <div className='hero'>
         <img src={profile_img} alt=""></img>
         <h1>
-          <span>I'm Jason Nguyen,</span> a computer science graduate based in Canada
+          <span>I'm Jason Nguyen,</span> an aspiring software developer based in Canada
         </h1>
-        <p>I received my Bachelor of Science at UBC majoring in Computer Science and Minoring in Statistics</p>
+        <p>I have extensive experience in front-end development, with some exploration into back-end work.</p>
         <div className = "hero-action">
           <div className="hero-connect">
             Connect with me
